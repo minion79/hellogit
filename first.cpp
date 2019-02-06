@@ -1,10 +1,10 @@
-#include <String>
+#include <string>
 #include <iostream>
 usingnamespace std;
 int main()
-String s0;
-String s1 = "hello";
-String s2 = s1 + "world";
+string s0;
+string s1 = "hello";
+string s2 = s1 + "world";
 //printing
 cout <<"s0 ="<<s0<<endl;
 cout <<"s1 ="<<s1<<endl;
