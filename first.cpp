@@ -1,7 +1,7 @@
 #include <string>
 #include <iostream>
 using namespace std;
-int main()
+int main(){
 string s0;
 string s1 = "hello";
 string s2 = s1 + "world";
@@ -18,3 +18,5 @@ if (s2 != "world")
 	
 	s1 += "kitty";
 	
+	return 0;
+}
