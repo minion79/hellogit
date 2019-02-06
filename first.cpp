@@ -1,6 +1,6 @@
 #include <string>
 #include <iostream>
-usingnamespace std;
+using namespace std;
 int main()
 string s0;
 string s1 = "hello";
