@@ -1,5 +1,6 @@
 #include <String>
 #include <iostream>
+usingnamespace std;
 String s0;
 String s1 = "hello";
 String s2 = s1 + "world";
